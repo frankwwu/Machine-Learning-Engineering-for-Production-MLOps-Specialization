@@ -1,4 +1,4 @@
-# Learning Objectives
+## Learning Objectives
 
 * dentify the key challenges in model development.
 * Describe how performance on a small set of disproportionately important examples may be more crucial than performance on the * majority of examples.
@@ -14,54 +14,50 @@
 * Identify a use case in which adding more data to your training dataset could actually hurt performance.
 * Describe the key components of experiment tracking.
 
-# Selecting and Training a Model
+## Selecting and Training a Model
 
-Video: Modeling overview
-. Duration: 2 minutes2 min
-Video: Key challenges
-. Duration: 5 minutes5 min
-Video: Why low average error isn't good enough
-. Duration: 10 minutes10 min
-Video: Establish a baseline
-. Duration: 7 minutes7 min
-Video: Tips for getting started
-. Duration: 6 minutes6 min
+Video: Modeling overview  . Duration: 2 min
+
+Video: Key challenges . Duration: 5 min
+
+Video: Why low average error isn't good enough . Duration: 10 min
+
+Video: Establish a baseline . Duration: 7 min
+
+Video: Tips for getting started . Duration: 6 min
+
 Quiz: Selecting and Training a Model
-4 questions
 
-# Error analysis and performance auditing
+## Error analysis and performance auditing
 
-Video: Error analysis example
-. Duration: 8 minutes8 min
-Video: Prioritizing what to work on
-. Duration: 5 minutes5 min
-Video: Skewed datasets
-. Duration: 12 minutes12 min
-Video: Performance auditing
-. Duration: 7 minutes7 min
+Video: Error analysis example . Duration: 8 min
 
-# Data iteration
+Video: Prioritizing what to work on . Duration: 5 min
 
-Video: Data-centric AI development
-. Duration: 2 minutes2 min
-Video: A useful picture of data augmentation
-. Duration: 5 minutes5 min
-Video: Data augmentation
-. Duration: 8 minutes8 min
-Video: Can adding data hurt?
-. Duration: 6 minutes6 min
-Video: Adding features
-. Duration: 8 minutes8 min
-Video: Experiment tracking
-. Duration: 4 minutes4 min
-Video: From big data to good data
-. Duration: 3 minutes3 min
-Reading: Week 2 Optional References
-. Duration: 3 minutes3 min
+Video: Skewed datasets . Duration: 12 min
 
-# Graded assessment
+Video: Performance auditing. Duration: 7 min
+
+## Data iteration
+
+Video: Data-centric AI development . Duration: 2 min
+
+Video: A useful picture of data augmentation . Duration: 5 min
+
+Video: Data augmentation . Duration: 8 min
+
+Video: Can adding data hurt? . Duration: 6 min
+
+Video: Adding features . Duration: 8 min
+
+Video: Experiment tracking . Duration: 4 min
+
+Video: From big data to good data . Duration: 3 min
+
+Reading: Week 2 Optional References . Duration: 3 min
+
+## Graded assessment
 
 Quiz: Modeling challenges
-5 questions
 
-# Ungraded Lab
+## Ungraded Lab
