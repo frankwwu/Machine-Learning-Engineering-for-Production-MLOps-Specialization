@@ -1,3 +1,7 @@
+# Week 2: Select and Train a Model
+
+This week is about model strategies and key challenges in model development. It covers error analysis and strategies to work with different data types. It also addresses how to cope with class imbalance and highly skewed data sets.
+
 ## Learning Objectives
 
 * dentify the key challenges in model development.
