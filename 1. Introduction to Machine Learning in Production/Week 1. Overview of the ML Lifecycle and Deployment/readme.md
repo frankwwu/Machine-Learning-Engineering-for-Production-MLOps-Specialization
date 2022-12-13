@@ -1,3 +1,7 @@
+# Week 1: Overview of the ML Lifecycle and Deployment
+
+This week covers a quick introduction to machine learning production systems focusing on their requirements and challenges. Next, the week focuses on deploying production systems and what is needed to do so robustly while facing constantly changing data.
+
 ## Learning Objectives
 
 * Identify the key components of the ML Lifecycle.
