@@ -1,3 +1,7 @@
+# Week 3: Data Definition and Baseline
+
+This week is all about working with different data types and ensuring label consistency for classification problems. This leads to establishing a performance baseline for your model and discussing strategies to improve it given your time and resources constraints.
+
 ## Learning Objectives
 
 * List the questions you need to answer in the process of data definition.
