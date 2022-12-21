@@ -1,3 +1,7 @@
+# Week 1: Collecting, Labeling and Validating Data
+
+This week covers a quick introduction to machine learning production systems. More concretely you will learn about leveraging the TensorFlow Extended (TFX) library to collect, label and validate data to make it production ready.
+
 ## Learning Objectives
 
 * Describe the differences between ML modeling and a production ML system
