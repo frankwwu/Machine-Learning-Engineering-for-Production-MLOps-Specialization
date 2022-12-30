@@ -1,3 +1,7 @@
+# Week 2: Feature Engineering, Transformation and Selection
+
+Implement feature engineering, transformation, and selection with TensorFlow Extended by encoding structured and unstructured data types and addressing class imbalances
+
 ## Learning Objectives
 
 * Define a set of feature engineering techniques, such as scaling and binning
